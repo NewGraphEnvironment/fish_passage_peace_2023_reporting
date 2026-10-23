@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: If you cite this report, please cite it as below.
+title: Restoring Fish Passage in the Peace Region 2023
+authors:
+- family-names: Irvine
+  given-names: Allan
+  orcid: https://orcid.org/0000-0002-3495-2128
+- family-names: Winterscheidt
+  given-names: Mateo
+date-released: '2025-05-15'
+url: https://www.newgraphenvironment.com/fish_passage_peace_2023_reporting/
+repository-code: https://github.com/NewGraphEnvironment/fish_passage_peace_2023_reporting
+preferred-citation:
+  type: report
+  title: Restoring Fish Passage in the Peace Region 2023
+  authors:
+  - family-names: Irvine
+    given-names: Allan
+    orcid: https://orcid.org/0000-0002-3495-2128
+  - family-names: Winterscheidt
+    given-names: Mateo
+  institution:
+    name: New Graph Environment Ltd.
+  year: 2025
+  date-published: '2025-05-15'
+  url: https://www.newgraphenvironment.com/fish_passage_peace_2023_reporting/
+  repository-code: https://github.com/NewGraphEnvironment/fish_passage_peace_2023_reporting
+
